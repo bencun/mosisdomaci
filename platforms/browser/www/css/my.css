@@ -1,0 +1,163 @@
+body{
+	/*background-color: #252525 !important;*/
+	padding: 0 4px;
+}
+a{
+	text-decoration: none !important;
+	color: #333333;
+	padding-bottom: 5px;
+}
+a:hover
+{
+	color: #286090;
+}
+.kont-logo
+{
+	padding: 0px;
+	margin-bottom: 20px;
+}
+
+.ul-prethodne{
+	list-style: none;
+}
+.li-prethodna{
+	display: block;
+	font-size: 20px;
+	padding: 4px 0px;
+	color: #888888;
+	border-bottom: 1px solid #AAAAAA;
+}
+
+#logodiv{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 1000;
+	height: 80px;
+	box-shadow: 0 4px 4px #CCCCCC;
+	background-color: white;
+}
+.container{
+	margin-top: 100px;
+}
+.search, .search-input{
+	margin-top: 8px;
+}
+.search-input{
+	padding: 12px 8px;
+	border-radius: 2px 0 0 2px;
+	border: 1px solid #AAAAAA;
+	border: 1px solid #444444;
+	font-size: 20px;
+}
+.search{
+	background-color: #444444;
+	border: 1px solid #444444;
+	border-radius: 0 2px 2px 0;
+	color: #333333;
+	padding: 10px 0;
+	height: 43px;
+	cursor: pointer;
+	font-size: 20px;
+}
+.selection
+{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	display: none;
+	color: #333333;
+}
+.tip-nezgode
+{
+	padding-top: 5px;
+}
+.tip-nezgode,.precnik-nezgode 
+{
+   
+	padding-left: 0px;
+}
+.precnik-nezgode
+{
+	padding-right: 0px;
+}
+.input-group-addon
+{
+	background-color: #ffe11b;
+	color: #565656;
+}
+.radio-pretraga
+{
+	
+}
+#map
+{
+	position: relative;
+	background-color: none !important;
+	margin-top: 10px;
+	height: 400px;
+	width: 100%;
+}
+.kont-dodaj
+{
+	margin-top: 10px;
+}
+.view2, .view3
+{
+	display: none;
+}
+.textarea
+{
+	width: 100%;
+}
+
+.btn-primary
+{
+	padding: 3px 3px 3px 3px;
+}
+.btn-primary:focus, .btn-primary:hover
+{
+
+}
+
+.dugmeDesno,
+.dugmeLevo{
+	position: fixed;
+	display: inline-block;
+	text-align: center;
+	color: white;
+	bottom: 28px;
+	width: 48px;
+	height: 48px;
+	border-radius: 50% 50%;
+	box-shadow: 0px 4px 4px #888;
+}
+.dugmeLevo *,
+.dugmeDesno *{
+	font-size: 24px;
+	line-height: 48px;
+}
+.dugmeDesno{
+	right: 28px;
+}
+.dugmeLevo{
+	right: 96px;
+}
+
+.dugmePlavo{
+	background-color: #2244FF;
+	color: white;
+}
+.dugmeZeleno{
+	background-color: #22BB33;
+	color: white;
+}
+.dugmeCrveno{
+	background-color: #FF2222;
+	color: white;
+}
+.empty-div{
+	display: block;
+	width: 100%;
+	height: 100px;
+}

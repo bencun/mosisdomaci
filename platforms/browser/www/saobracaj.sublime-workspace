@@ -1,0 +1,1798 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tekst",
+				"tekstPretrage"
+			],
+			[
+				"pravi",
+				"praviMarker"
+			],
+			[
+				"privremeni",
+				"privremeniMarker"
+			],
+			[
+				"he",
+				"height\t Style CSS"
+			],
+			[
+				"kood",
+				"koordinateGranica"
+			],
+			[
+				"granice",
+				"graniceMape"
+			],
+			[
+				"koordi",
+				"koordinateGranica"
+			],
+			[
+				"koo",
+				"koordinateGranica"
+			],
+			[
+				"la",
+				"lat"
+			],
+			[
+				"priv",
+				"privremeniMarker"
+			],
+			[
+				"poceni",
+				"pocetniEkran"
+			],
+			[
+				"izmena",
+				"izmenaMarkera"
+			],
+			[
+				"pocetni",
+				"pocetniEkran"
+			],
+			[
+				"izme",
+				"izmenaMarkera"
+			],
+			[
+				"pregled",
+				"pregledMarkera"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"bs3-btn",
+				"bs3-button\tbs3-button"
+			],
+			[
+				"btn",
+				"btn-lg"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"onresu",
+				"onresize〔function〕"
+			],
+			[
+				"all",
+				"$allInstruments〔variable〕"
+			],
+			[
+				"rece",
+				"recipient"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"getElement",
+				"getElementsByClassName( classNames: DOMString ): HTMLCollection\tElement"
+			],
+			[
+				"overflow",
+				"overflow-y"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ng",
+				"ng-FitText.min.js"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"destr",
+				"destroySession"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"Multi",
+				"Multiplay.js"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"n",
+				"nbsp\t&nbsp;"
+			],
+			[
+				"a",
+				"align-self"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"active",
+				"activeSection"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"te",
+				"textAngular-rangy.min.js"
+			],
+			[
+				"activeS",
+				"activeSection"
+			],
+			[
+				"Ed",
+				"EditController.js"
+			],
+			[
+				"fuc",
+				"function without name"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"label",
+				"label\t<label>"
+			],
+			[
+				"coun",
+				"country"
+			],
+			[
+				"sear",
+				"search.useFilters"
+			],
+			[
+				"list",
+				"listOffset"
+			],
+			[
+				"Noto",
+				"NotificationFactory"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"read",
+				"read_msg"
+			],
+			[
+				"Me",
+				"MessageController.js"
+			],
+			[
+				"Mess",
+				"MessagesController.js"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"$",
+				"$broadcast\tAngularJS"
+			],
+			[
+				"nglc",
+				"ng-click\tAngularJS"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"inln",
+				"inline-block"
+			],
+			[
+				"load",
+				"loadData"
+			],
+			[
+				"ens",
+				"ensembleMembers"
+			],
+			[
+				"ensemble",
+				"ensembleID"
+			],
+			[
+				"New",
+				"NewController.js"
+			],
+			[
+				"console",
+				"console.log()"
+			],
+			[
+				"$roo",
+				"$rootScope\tAngularJS"
+			],
+			[
+				"audi",
+				"audio\t<audio>"
+			],
+			[
+				"il",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"ngclass",
+				"ng-class\tAngularJS"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"valid",
+				"validationFailed"
+			],
+			[
+				"$resoi",
+				"$responseData〔variable〕"
+			],
+			[
+				"$resp",
+				"$response"
+			],
+			[
+				"$old",
+				"$oldimageID〔variable〕"
+			],
+			[
+				"with",
+				"withJson"
+			],
+			[
+				"$respos",
+				"$responseData〔variable〕"
+			],
+			[
+				"validate",
+				"validateApplication($data"
+			],
+			[
+				"app",
+				"appplicationRow"
+			],
+			[
+				"$app",
+				"$applicationResult〔variable〕"
+			],
+			[
+				"applic",
+				"applicationRow"
+			],
+			[
+				"Fe",
+				"FETCH_ASSOC"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"sele",
+				"selectedServiceType"
+			],
+			[
+				"serv",
+				"serviceType"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"$sc",
+				"$scope\tAngularJS"
+			],
+			[
+				"applicati",
+				"applicationSubmits"
+			],
+			[
+				"application",
+				"applicationSubmitted"
+			],
+			[
+				"appl",
+				"applicationSubmits"
+			],
+			[
+				"$_",
+				"$_\tSESSION['…']"
+			],
+			[
+				"var_",
+				"var_export〔function〕"
+			],
+			[
+				"FILTER_SANI",
+				"FILTER_SANITIZE_STRING〔constant〕"
+			],
+			[
+				"FILTER_VA",
+				"FILTER_VALIDATE_EMAIL〔constant〕"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"$newRes",
+				"$newResponse"
+			],
+			[
+				"angular-moment-picker",
+				"angular-moment-picker.min.css"
+			],
+			[
+				"mom",
+				"angular-moment-picker.min.js"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"orch",
+				"orchestra2"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"magin-",
+				"margin-top"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"jus",
+				"justify-self"
+			],
+			[
+				"alig",
+				"align-self"
+			],
+			[
+				"alin",
+				"align-items"
+			],
+			[
+				"span",
+				"span\tTag"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/index.js",
+			"settings":
+			{
+				"buffer_size": 22033,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8005,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/my.css",
+			"settings":
+			{
+				"buffer_size": 2103,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "newview",
+		"selected_items":
+		[
+			[
+				"newview",
+				"File: New View into File"
+			],
+			[
+				"newvi",
+				"File: New View into File"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"\\",
+				"Pretty JSON: JSON query with ./jq"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-col-3"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"com",
+				"Toggle Block Comment"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"view",
+				"File: New View into File"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"caps",
+				"Convert Case: Upper Case"
+			],
+			[
+				"packali",
+				"Package Control: List Packages"
+			],
+			[
+				"intel",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"co",
+				"Code Folding: Unfold All"
+			],
+			[
+				"htmlan",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"comme",
+				"Toggle Block Comment"
+			],
+			[
+				"sspp",
+				"Set Syntax: PHP"
+			],
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"sshtmlan",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"ssangu",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"block",
+				"Toggle Block Comment"
+			],
+			[
+				"COMM",
+				"Toggle Comment"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"pacins",
+				"Package Control: Install Package"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"upcase",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"ssjo",
+				"Set Syntax: JSON"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 401.0,
+		"history":
+		[
+			"exit",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Dokumenta/Cordova/Saobracaj/www",
+		"/F/Dokumenta/Cordova/Saobracaj/www/js"
+	],
+	"file_history":
+	[
+		"/F/Dokumenta/Cordova/Saobracaj/www/js/index.js",
+		"/F/Dokumenta/Cordova/Saobracaj/config.xml",
+		"/C/Users/Bencun/Desktop/index.js",
+		"/F/Dokumenta/Cordova/Saobracaj/MOSIS/index.html",
+		"/F/Dokumenta/Cordova/Saobracaj/www/css/index.css",
+		"/F/Dokumenta/Cordova/Saobracaj/www/js/my.js",
+		"/C/Users/Bencun/Desktop/MOSIS/index.html",
+		"/F/Downloads/Movies/Friends All Seasons/Friends Season 10 (1080p x265 Joy)/Friends.S10E15.WS.BDRip.XviD-iNGOT.srt",
+		"/F/Downloads/Movies/Friends All Seasons/Friends Season 10 (1080p x265 Joy)/Friends.S10E11.WS.BDRip.XviD-iNGOT.srt",
+		"/F/Downloads/Movies/Friends All Seasons/Friends Season 10 (1080p x265 Joy)/Friends.S10E10.WS.BDRip.XviD-iNGOT.srt",
+		"/F/Dokumenta/Cordova/Saobracaj/www/index.html",
+		"/F/Games/SWAT 4/Content/System/swat4.ini",
+		"/F/Games/SWAT 4/Content/System/User.ini",
+		"/F/Games/SWAT 4/Content/System/SwatPawn.ini",
+		"/C/Users/Bencun/AppData/Local/4A Games/Metro 2033/user.cfg",
+		"/F/Steam/userdata/57990444/43110/remote/user.cfg",
+		"/F/Games/GZDoom24c64/brutalv20b/BLOOD.txt",
+		"/C/wamp64/www/php/HelperFunctions.php",
+		"/C/Users/Bencun/AppData/Local/Temp/7zOC8B8305D/PHPMailerAutoload.php",
+		"/C/wamp64/www/php/setup.php",
+		"/C/wamp64/www/templates/admin/ArtistTemplate.html",
+		"/C/wamp64/www/admin/js/controllers/ArtistController.js",
+		"/C/wamp64/www/js/app.js",
+		"/C/wamp64/www/admin/js/admin.js",
+		"/C/wamp64/www/admin/js/controllers/ProfilesController.js",
+		"/C/wamp64/www/js/controllers/MainController.js",
+		"/C/wamp64/www/templates/JuryTemplate.html",
+		"/C/wamp64/www/css/style.css",
+		"/C/wamp64/www/templates/ContactTemplate.html",
+		"/C/wamp64/bin/apache/apache2.4.23/conf/httpd.conf",
+		"/C/wamp64/AAAAWWWbackup/index.php",
+		"/C/wamp64/alias/adminer.conf",
+		"/C/wamp64/www/templates/ProfileTemplate.html",
+		"/F/Downloads/Torrents/ppt-fu2x/prophet.nfo",
+		"/F/Downloads/Torrents/Pro.Evolution.Soccer.2017-CPY/cpy-pes2017.nfo",
+		"/C/wamp64/www/.htaccess",
+		"/C/wamp64/www/templates/ApplicationTemplate.html",
+		"/C/wamp64/www/templates/admin/EditTemplate.html",
+		"/C/wamp64/www/templates/admin/ApplicationTemplate.html",
+		"/C/wamp64/www/templates/admin/ProfilesTemplate.html",
+		"/C/wamp64/www/js/controllers/ProfileController.js",
+		"/C/wamp64/www/js/controllers/ContactController.js",
+		"/C/wamp64/www/js/controllers/SearchController.js",
+		"/C/wamp64/www/templates/HomeTemplate.html",
+		"/C/wamp64/www/js/controllers/ApplicationController.js",
+		"/C/wamp64/www/js/controllers/ServicesController.js",
+		"/C/wamp64/www/js/directives/Multiplay.js",
+		"/C/wamp64/www/partials/MultiplayTemplate.html",
+		"/F/Downloads/Movies/Friends All Seasons/Friends Season 07 (1080p x265 Joy)/Friends.S07E06.WS.BDRip.XviD-iNGOT.srt",
+		"/C/wamp64/www/index.php",
+		"/C/wamp64/www/AAAAWWWbackup/wamplangues/index_portuguese.php",
+		"/F/Backups/wamp3/www/index.php",
+		"/C/wamp3/www/css/style.css",
+		"/C/wamp3/www/js/factories/StaticDataFactory.js",
+		"/C/wamp3/www/partials/MultipickTemplate.html",
+		"/C/wamp3/www/js/directives/Multipick.js",
+		"/C/wamp3/www/js/controllers/MainController.js",
+		"/C/wamp3/www/admin/js/admin.js",
+		"/C/wamp3/www/admin/admin.html",
+		"/C/wamp3/www/js/app.js",
+		"/C/wamp3/www/js/directives/Multiplay.js",
+		"/C/wamp3/www/js/controllers/ContactController.js",
+		"/C/wamp3/www/.htaccess",
+		"/C/wamp3/www/js/factories/DataFactory.js",
+		"/C/wamp3/www/php/setup.php",
+		"/C/wamp3/www/templates/ContactTemplate.html",
+		"/C/wamp3/www/templates/ApplicationTemplate.html",
+		"/C/wamp3/www/templates/ProfileTemplate.html",
+		"/C/wamp3/www/js/controllers/ApplicationController.js",
+		"/C/wamp3/www/admin/js/controllers/ApplicationController.js",
+		"/C/wamp3/www/css/animations.css",
+		"/C/wamp3/www/js/controllers/ProfileController.js",
+		"/C/wamp3/www/js/controllers/SearchController.js",
+		"/C/wamp3/www/partials/MultiplayTemplate.html",
+		"/C/wamp3/www/admin/js/controllers/ArtistController.js",
+		"/C/wamp3/www/templates/admin/ArtistTemplate.html",
+		"/C/wamp3/www/templates/admin/EnsembleTemplate.html",
+		"/C/wamp/wwwCRS/js/directives.js",
+		"/C/wamp3/www/js/controllers/JuryController.js",
+		"/C/wamp3/www/js/controllers/ServicesController.js",
+		"/C/wamp3/www/js/directives/Filevar.js",
+		"/C/wamp3/www/templates/admin/ApplicationTemplate.html",
+		"/C/wamp3/www/admin/login.html",
+		"/C/wamp3/www/index.php",
+		"/C/wamp3/www/admin/.htaccess",
+		"/C/wamp3/www/login.html",
+		"/C/wamp3/www/templates/ServicesTemplate.html",
+		"/C/wamp3/www/templates/JuryTemplate.html",
+		"/C/wamp3/www/editable.json",
+		"/C/wamp/wwwCRS/js/controllers.js",
+		"/C/wamp3/www/admin/js/controllers/EditController.js",
+		"/C/wamp3/www/templates/SearchTemplate.html",
+		"/C/wamp3/www/templates/admin/EditTemplate.html",
+		"/C/wamp3/www/admin/js/controllers/EnsembleController.js",
+		"/C/wamp3/www/admin/js/controllers/MainController.js",
+		"/C/wamp3/www/php/HelperFunctions.php",
+		"/C/wamp3/www/templates/PrivacyTemplate.html",
+		"/C/wamp3/www/templates/MissionTemplate.html",
+		"/C/wamp3/www/js/controllers/MissionController.js",
+		"/C/wamp3/www/css/fonts.css",
+		"/C/Users/Bencun/AppData/Local/Temp/7zO881A493B/static-demo.html",
+		"/C/wamp3/www/js/directives/Multinput.js",
+		"/C/wamp3/www/admin/js/controllers/NewController.js",
+		"/C/wamp3/www/js/controllers/LoadingController.js",
+		"/C/wamp3/www/js/controllers/HomeController.js",
+		"/C/wamp3/www/admin/js/controllers/MessageController.js",
+		"/C/wamp3/www/admin/js/controllers/MessagesController.js",
+		"/C/wamp3/www/js/factories/NotificationFactory.js",
+		"/C/wamp3/www/templates/LoadingTemplate.html",
+		"/C/wamp/wwwCRS/js/app.js",
+		"/C/wamp3/www/templates/HomeTemplate.html",
+		"/C/wamp3/www/templates/admin/ProfilesTemplate.html",
+		"/C/wamp3/www/testphp.php",
+		"/C/wamp3/www/templates/admin/ApplicationsTemplate.html",
+		"/C/wamp3/www/admin/js/controllers/ApplicationsController.js",
+		"/C/wamp3/www/admin/js/controllers/ProfilesController.js",
+		"/C/wamp3/www/templates/admin/MessageTemplate.html",
+		"/C/wamp3/www/scratchpad.txt",
+		"/C/wamp3/www/templates/admin/MessagesTemplate.html",
+		"/C/wamp/wwwCRS/php/admin.php",
+		"/C/wamp/wwwCRS/index.html",
+		"/C/Downloads/Classicum images/tmp/classicum.sql",
+		"/C/wamp3/www/templates/admin/NewTemplate.html",
+		"/C/wamp3/www/templates/admin/HomeTemplate.html",
+		"/C/wamp/wwwCRS/js/factories/DataFactory.js",
+		"/C/Users/Bencun/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/wamp/wwwCRS/css/global.css",
+		"/C/wamp3/www/misc/editable.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"F:\\Backups\\wamp\\wwwCRS",
+			"C:\\wamp64\\www",
+			"C:\\wamp\\www\\SBP"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"izabong",
+			"fotografija",
+			"datumivreme",
+			"stanje.",
+			"white",
+			"icon",
+			"(document).ready(function()\n\t{\n\t\t$(\".search-input\").focus(function(){\n\t\t\t$(\".selection\").css(\"display\",\"block\");\n\t\t\t$(\"#map\").css(\"background-color\",\"white\");\n\t\t\t$(\"#nazad\").css(\"display\",\"block\");\n\t\t\t$(\"#dodaj\").removeClass(\"col-xs-offset-10\").addClass(\"col-xs-offset-8\");\n\n\t\t});\n\n\t\t$(\"#dodaj\").click(function(){\n\t\t\t$(\".view1\").css(\"display\",\"none\");\n\t\t\t$(\".view2\").css(\"display\",\"block\");\n\t\t});\n\t\t\n\t\t$(\"#map\").click(function()\n\t\t{\n\t\t\t$(\".view1\").css(\"display\",\"none\");\n\t\t\t$(\".view3\").css(\"display\",\"block\");\n\n\t\t});\n\t}",
+			"icon",
+			"name",
+			"sendmail",
+			"d3drender",
+			"windowedview",
+			"fullscree",
+			"rapplication",
+			"/application",
+			"rapplication",
+			" ?: 'N/A'",
+			"rapplication",
+			"sendMail",
+			":",
+			"?",
+			"sendmail",
+			".jury-conta",
+			"column-count",
+			".jury-container",
+			".jury",
+			"/www",
+			"virtual hosts",
+			"listen 80",
+			"<directory",
+			"directory",
+			"font-fam",
+			"Jury",
+			"textarea",
+			".profile-co",
+			"!important",
+			"text-sha",
+			".profile-contact",
+			"text-sha",
+			"background-color:",
+			"background-color: rgba(0,0,0,0.6);",
+			"background-color",
+			"white-space",
+			"hover",
+			"profile-image",
+			"crop",
+			"PDF",
+			".application-form-label",
+			"sendingdata",
+			"datasent",
+			"mission",
+			"status",
+			"countries",
+			"service-type-selected",
+			"'resize'",
+			"state",
+			"text-sha",
+			"overflow",
+			".main",
+			".footer",
+			".main",
+			"-right",
+			"overflow",
+			"scroll",
+			".header",
+			".footer-menu",
+			".jury",
+			"ng",
+			"333333",
+			".button-audio",
+			"audio",
+			"/public",
+			"!important",
+			"cmedia",
+			".main",
+			"dataSent",
+			"transiti",
+			"console.log",
+			"source",
+			"tempdata.audio1",
+			"mp3",
+			".button",
+			"/login",
+			"/admin",
+			".application-form",
+			"forcelo",
+			"sessionManager[\"logIn\"]",
+			"select",
+			".option",
+			".service-type",
+			"display: fl",
+			"display:flex",
+			".services-menu",
+			".jury-memb",
+			".header-menu-item",
+			".jury-member",
+			"jury",
+			".ng-enter",
+			".jury-member",
+			"animation:",
+			".jury-member",
+			".jury-image",
+			".profile-image",
+			"staat",
+			"'ol'",
+			"/editable",
+			"textarea",
+			".application-label-textarea",
+			"application-label",
+			"h2",
+			"text-angular",
+			"ng-cloak",
+			".ng-",
+			"background-url",
+			"/editable",
+			"/count",
+			"/editable",
+			"editable",
+			"$scope.search.data",
+			".staticData",
+			"staticData",
+			"z-index",
+			"box-sha",
+			"removeartist",
+			"search",
+			"message-label",
+			"\"gender",
+			".item-table-row"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8400,
+								8400
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3715.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2900,
+								2900
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 168.0,
+						"translation.y": 910.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2281,
+								2281
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"history_list_is_closing": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/my.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1963,
+								1963
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1596.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.460424028269,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 181.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "saobracaj.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css",
+				"css\\my.css"
+			],
+			[
+				"h",
+				"php\\HelperFunctions.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"setu",
+				"php\\setup.php"
+			],
+			[
+				"index.php",
+				"index.php"
+			],
+			[
+				"application",
+				"templates\\ApplicationTemplate.html"
+			],
+			[
+				"admin.js",
+				"admin\\js\\admin.js"
+			],
+			[
+				"app.js",
+				"js\\app.js"
+			],
+			[
+				"artisttem",
+				"templates\\admin\\ArtistTemplate.html"
+			],
+			[
+				"artistcontro",
+				"admin\\js\\controllers\\ArtistController.js"
+			],
+			[
+				"profilecontro",
+				"admin\\js\\controllers\\ProfilesController.js"
+			],
+			[
+				"main",
+				"js\\controllers\\MainController.js"
+			],
+			[
+				"jury",
+				"templates\\JuryTemplate.html"
+			],
+			[
+				"sty",
+				"css\\style.css"
+			],
+			[
+				"mainco",
+				"js\\controllers\\MainController.js"
+			],
+			[
+				"maincon",
+				"js\\controllers\\MainController.js"
+			],
+			[
+				"contactte",
+				"templates\\ContactTemplate.html"
+			],
+			[
+				"maion",
+				"js\\controllers\\MainController.js"
+			],
+			[
+				"applica",
+				"templates\\ApplicationTemplate.html"
+			],
+			[
+				"profile",
+				"templates\\admin\\ProfilesTemplate.html"
+			],
+			[
+				"contactc",
+				"js\\controllers\\ContactController.js"
+			],
+			[
+				"searchj",
+				"js\\controllers\\SearchController.js"
+			],
+			[
+				"app",
+				"js\\app.js"
+			],
+			[
+				"profilecon",
+				"js\\controllers\\ProfileController.js"
+			],
+			[
+				"profileco",
+				"js\\controllers\\ProfileController.js"
+			],
+			[
+				"setup",
+				"php\\setup.php"
+			],
+			[
+				"applicationcon",
+				"js\\controllers\\ApplicationController.js"
+			],
+			[
+				"services",
+				"js\\controllers\\ServicesController.js"
+			],
+			[
+				"servicesc",
+				"js\\controllers\\ServicesController.js"
+			],
+			[
+				"multipla",
+				"js\\directives\\Multiplay.js"
+			],
+			[
+				"multiplay",
+				"partials\\MultiplayTemplate.html"
+			],
+			[
+				"profilete",
+				"templates\\ProfileTemplate.html"
+			],
+			[
+				"indexp",
+				"AAAAWWWbackup\\wamplangues\\index_portuguese.php"
+			],
+			[
+				"homete",
+				"templates\\HomeTemplate.html"
+			],
+			[
+				"stati",
+				"js\\factories\\StaticDataFactory.js"
+			],
+			[
+				"multipickte",
+				"partials\\MultipickTemplate.html"
+			],
+			[
+				"multipi",
+				"js\\directives\\Multipick.js"
+			],
+			[
+				"applcont",
+				"js\\controllers\\ApplicationController.js"
+			],
+			[
+				"static",
+				"js\\factories\\StaticDataFactory.js"
+			],
+			[
+				"data",
+				"js\\factories\\DataFactory.js"
+			],
+			[
+				"mainc",
+				"js\\controllers\\MainController.js"
+			],
+			[
+				"multipl",
+				"js\\directives\\Multiplay.js"
+			],
+			[
+				"contactco",
+				"js\\controllers\\ContactController.js"
+			],
+			[
+				"editte",
+				"templates\\admin\\EditTemplate.html"
+			],
+			[
+				"contacco",
+				"js\\controllers\\ContactController.js"
+			],
+			[
+				"applicationco",
+				"js\\controllers\\ApplicationController.js"
+			],
+			[
+				"appliccon",
+				"admin\\js\\controllers\\ApplicationController.js"
+			],
+			[
+				"applicaitonc",
+				"js\\controllers\\ApplicationController.js"
+			],
+			[
+				"applicar",
+				"js\\controllers\\ApplicationController.js"
+			],
+			[
+				"setupp",
+				"php\\setup.php"
+			],
+			[
+				"conta",
+				"js\\controllers\\ContactController.js"
+			],
+			[
+				"animations",
+				"css\\animations.css"
+			],
+			[
+				"applicationc",
+				"js\\controllers\\ApplicationController.js"
+			],
+			[
+				"applicaitonco",
+				"js\\controllers\\ApplicationController.js"
+			],
+			[
+				"styles",
+				"css\\style.css"
+			],
+			[
+				"multiplat",
+				"partials\\MultiplayTemplate.html"
+			],
+			[
+				"multiplayte",
+				"partials\\MultiplayTemplate.html"
+			],
+			[
+				"artisc",
+				"admin\\js\\controllers\\ArtistController.js"
+			],
+			[
+				"ensem",
+				"templates\\admin\\EnsembleTemplate.html"
+			],
+			[
+				"multipic",
+				"js\\directives\\Multipick.js"
+			],
+			[
+				"artistco",
+				"admin\\js\\controllers\\ArtistController.js"
+			],
+			[
+				"artistte",
+				"templates\\admin\\ArtistTemplate.html"
+			],
+			[
+				"artistcont",
+				"admin\\js\\controllers\\ArtistController.js"
+			],
+			[
+				"multipickjs",
+				"js\\directives\\Multipick.js"
+			],
+			[
+				"multipick",
+				"partials\\MultipickTemplate.html"
+			],
+			[
+				"file",
+				"js\\directives\\Filevar.js"
+			],
+			[
+				"artist",
+				"admin\\js\\controllers\\ArtistController.js"
+			],
+			[
+				"ensemb",
+				"templates\\admin\\EnsembleTemplate.html"
+			],
+			[
+				"helper",
+				"php\\HelperFunctions.php"
+			],
+			[
+				"filevar",
+				"js\\directives\\Filevar.js"
+			],
+			[
+				"applicati",
+				"templates\\ApplicationTemplate.html"
+			],
+			[
+				"servicest",
+				"templates\\ServicesTemplate.html"
+			],
+			[
+				"juryte",
+				"templates\\JuryTemplate.html"
+			],
+			[
+				"juryco",
+				"js\\controllers\\JuryController.js"
+			],
+			[
+				"searchc",
+				"js\\controllers\\SearchController.js"
+			],
+			[
+				"searchte",
+				"templates\\SearchTemplate.html"
+			],
+			[
+				"searchcon",
+				"js\\controllers\\SearchController.js"
+			],
+			[
+				"edittem",
+				"templates\\admin\\EditTemplate.html"
+			],
+			[
+				"searc",
+				"templates\\SearchTemplate.html"
+			],
+			[
+				"editco",
+				"admin\\js\\controllers\\EditController.js"
+			],
+			[
+				"maincont",
+				"js\\controllers\\MainController.js"
+			],
+			[
+				"dataf",
+				"js\\factories\\DataFactory.js"
+			],
+			[
+				"datafa",
+				"js\\factories\\DataFactory.js"
+			],
+			[
+				"ensemblec",
+				"admin\\js\\controllers\\EnsembleController.js"
+			],
+			[
+				"editcon",
+				"admin\\js\\controllers\\EditController.js"
+			],
+			[
+				"jur",
+				"templates\\JuryTemplate.html"
+			],
+			[
+				"ensemble",
+				"templates\\admin\\EnsembleTemplate.html"
+			],
+			[
+				"enseb",
+				"templates\\admin\\EnsembleTemplate.html"
+			],
+			[
+				"datafac",
+				"js\\factories\\DataFactory.js"
+			],
+			[
+				"help",
+				"php\\HelperFunctions.php"
+			],
+			[
+				"ensembleco",
+				"admin\\js\\controllers\\EnsembleController.js"
+			],
+			[
+				"servicesco",
+				"js\\controllers\\ServicesController.js"
+			],
+			[
+				"privac",
+				"templates\\PrivacyTemplate.html"
+			],
+			[
+				"miss",
+				"templates\\MissionTemplate.html"
+			],
+			[
+				"mission",
+				"templates\\MissionTemplate.html"
+			],
+			[
+				"missionte",
+				"templates\\MissionTemplate.html"
+			],
+			[
+				"search",
+				"templates\\SearchTemplate.html"
+			],
+			[
+				"missiontem",
+				"templates\\MissionTemplate.html"
+			],
+			[
+				"missioncon",
+				"js\\controllers\\MissionController.js"
+			],
+			[
+				"multi",
+				"js\\directives\\Multinput.js"
+			],
+			[
+				"editable",
+				"editable.json"
+			],
+			[
+				"messagec",
+				"admin\\js\\controllers\\MessageController.js"
+			],
+			[
+				"messagesc",
+				"admin\\js\\controllers\\MessagesController.js"
+			],
+			[
+				"newcon",
+				"admin\\js\\controllers\\NewController.js"
+			],
+			[
+				"staticda",
+				"js\\factories\\StaticDataFactory.js"
+			],
+			[
+				"notifa",
+				"js\\factories\\NotificationFactory.js"
+			],
+			[
+				"homeco",
+				"js\\controllers\\HomeController.js"
+			],
+			[
+				"fonts",
+				"css\\fonts.css"
+			],
+			[
+				"template",
+				"templates\\HomeTemplate.html"
+			],
+			[
+				"profiles",
+				"templates\\admin\\ProfilesTemplate.html"
+			],
+			[
+				"applicationte",
+				"templates\\admin\\ApplicationTemplate.html"
+			],
+			[
+				"multin",
+				"js\\directives\\Multinput.js"
+			],
+			[
+				"applicationsso",
+				"admin\\js\\controllers\\ApplicationsController.js"
+			],
+			[
+				"applications",
+				"templates\\admin\\ApplicationsTemplate.html"
+			],
+			[
+				"searchco",
+				"js\\controllers\\SearchController.js"
+			],
+			[
+				"staticdata",
+				"js\\factories\\StaticDataFactory.js"
+			],
+			[
+				"staticd",
+				"js\\factories\\StaticDataFactory.js"
+			],
+			[
+				"hele",
+				"php\\HelperFunctions.php"
+			],
+			[
+				"applicationsco",
+				"admin\\js\\controllers\\ApplicationsController.js"
+			],
+			[
+				"applicationste",
+				"templates\\admin\\ApplicationsTemplate.html"
+			],
+			[
+				"artistt",
+				"templates\\admin\\ArtistTemplate.html"
+			],
+			[
+				"artistcon",
+				"admin\\js\\controllers\\ArtistController.js"
+			],
+			[
+				"sear",
+				"templates\\SearchTemplate.html"
+			],
+			[
+				"homecon",
+				"js\\controllers\\HomeController.js"
+			],
+			[
+				"new",
+				"admin\\js\\controllers\\NewController.js"
+			],
+			[
+				"ensembletem",
+				"templates\\admin\\EnsembleTemplate.html"
+			],
+			[
+				"ensebleco",
+				"admin\\js\\controllers\\EnsembleController.js"
+			],
+			[
+				"editabl",
+				"editable.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

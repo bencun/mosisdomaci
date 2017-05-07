@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Saobracaj</name>
+    <description>
+        Aplikacija za pracenje stanja saobracaja.
+    </description>
+    <author email="axa993@gmail.com" href="http://cordova.io">
+        Elfak Studenti
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+        <icon density="ldpi" src="www/icon.png" />
+        <icon density="mdpi" src="www/icon.png" />
+        <icon density="hdpi" src="www/icon.png" />
+        <icon density="xhdpi" src="www/icon.png" />
+        <icon density="xxhdpi" src="www/icon.png" />
+        <icon density="xxxhdpi" src="www/icon.png" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+    <engine name="browser" spec="~4.1.0" />
+    <plugin name="cordova-plugin-camera" spec="^2.4.1" />
+    <plugin name="cordova-plugin-compat" spec="^1.1.0" />
+    <plugin name="cordova-plugin-console" spec="~1.0.7" />
+    <plugin name="cordova-plugin-device-orientation" spec="^1.0.7" />
+    <plugin name="cordova-plugin-file" spec="^4.3.3" />
+    <plugin name="cordova-plugin-geolocation" spec="^2.4.3" />
+    <plugin name="cordova-plugin-googlemaps" spec="~1.4.0">
+        <variable name="API_KEY_FOR_ANDROID" value="AIzaSyA2cK3AJJnHldL3QssgCcU_mfp1BCmkqvQ" />
+    </plugin>
+    <plugin name="cordova-plugin-screen-orientation" spec="^2.0.1" />
+    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <plugin name="cordova-sqlite-storage" spec="^2.0.4" />
+</widget>
